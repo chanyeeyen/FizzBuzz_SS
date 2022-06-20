@@ -1,5 +1,5 @@
 # FizzBuzz_SS
-Small Mini Interview Project
+Interview Assignment
 
 Write a c# program that prints the numbers from 1 to 100.
 
